@@ -57,22 +57,29 @@ https://dl.acm.org/doi/pdf/10.1145/3452296.3472922
 #### Citation
 Mou, Chengjin. (2023). DNS is the Internet Pivotal Basics and Fundamental. International Journal of Advanced Network, Monitoring and Controls. 7. 11-23. 10.2478/ijanmc-2022-0012. 
 
-###
+### Tonic makes gRPC in Rust stupidly simple
 #### URL
+https://github.com/dreamsofcode-io/grpcalculator-rs
+#### Notes
+- Git repo using gRPCs in the web
+#### Citation
+dreamsofcode-io, "grpcalculator-rs," GitHub, 2025. [Online]. Available: https://github.com/dreamsofcode-io/grpcalculator-rs
+
+### WebRTC Website
+#### URL
+https://webrtc.org/
 #### Notes
 #### Citation
+WebRTC, "WebRTC," https://webrtc.org/ (accessed Mar. 1, 2025).
 
 ###
 #### URL
+https://www.unitedworldtelecom.com/learn/webrtc-applications/
 #### Notes
 #### Citation
+Miguel Isabal, "8 Powerful Applications Built Using WebRTC," United World Telecom, Dec. 2020. Available:https://www.unitedworldtelecom.com/learn/webrtc-applications/
 
-###
-#### URL
-#### Notes
-#### Citation
-
-###
+### 
 #### URL
 #### Notes
 #### Citation
