@@ -81,15 +81,36 @@ Miguel Isabal, "8 Powerful Applications Built Using WebRTC," United World Teleco
 
 ### 
 #### URL
+https://www.techtarget.com/searchapparchitecture/definition/Remote-Procedure-Call-RPC
 #### Notes
 #### Citation
+Gillis, Alexander, "Remote Procedure Call (RPC)", TechTarget, May 2024. Available:https://www.techtarget.com/searchapparchitecture/definition/Remote-Procedure-Call-RPC
+
+### Performance Analysis of Sun RPC
+#### URL
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6621405
+#### Notes
+- Sun RPC
+#### Citation
+S. Srivastava and P. K. Srivastava, "Performance analysis of Sun RPC," 2013 National Conference on Parallel Computing Technologies (PARCOMPTECH), Bangalore, India, 2013, pp. 1-9, doi: 10.1109/ParCompTech.2013.6621405.
 
 ###
 #### URL
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9464041
 #### Notes
 #### Citation
+M. Aboubakar, P. Roux, M. Kellil and A. Bouabdallah, "A novel scheme for congestion notification in IoT low power networks," 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM), Bordeaux, France, 2021, pp. 932-937.
 
 ###
 #### URL
+https://ieeexplore.ieee.org/document/7575063
 #### Notes
 #### Citation
+M. Masirap, M. H. Amaran, Y. M. Yussoff, R. A. Rahman and H. Hashim, "Evaluation of reliable UDP-based transport protocols for Internet of Things (IoT)," 2016 IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), Penang, Malaysia, 2016, pp. 200-205, doi: 10.1109/ISCAIE.2016.7575063.
+
+###
+#### URL
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9467892
+#### Notes
+#### Citation
+O. Romanov, V. Mankivskyi and I. Saychenko, "Analysis of Influence of UDP Parameters on QoS in IP Network," 2020 IEEE International Conference on Problems of Infocommunications. Science and Technology (PIC S&T), Kharkiv, Ukraine, 2020, pp. 551-556, doi: 10.1109/PICST51311.2020.9467892.
