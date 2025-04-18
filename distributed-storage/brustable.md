@@ -27,8 +27,6 @@ I am not sure what they mean by burst capability in this context.
 ## Cons
 - I wish that they would have given a better description of burst at the beginning of the paper.
 
-## Further Developments
-
 ## Other Comments
 I do not exactly know what they mean by burst capability.
 
